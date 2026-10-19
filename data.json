@@ -1,0 +1,69 @@
+{
+  "school_name": "FINAL GRADES",
+  "semester": "First Semester",
+  "school_year": "2026",
+
+  "subject": {
+    "code": "GE ELECT 2",
+    "description": "Living in the IT era",
+    "units": 3,
+    "instructor": "Arnold R. Cabuños"
+  },
+
+  "students": [
+    {
+      "student_id": "226-MCR-02530216",
+      "email": "rosendamacabante69@gmail.com",
+      "full_name": "MACABANTE, ROSENDA MAY PALARCA",
+      "section": "BSBA 1D",
+      "overall_average": 87.14427816,
+      "point_equivalent": 1.50,
+      "remarks": "PASSED"
+    },
+    {
+      "student_id": "2024-00124",
+      "email": "maria.santos@school.edu",
+      "full_name": "MANZANO, LYKA MARIE MOSUELA",
+      "section": "BSBA 1D",
+      "overall_average": 83.67,
+      "point_equivalent": 1.75,
+      "remarks": "PASSED"
+    },
+    {
+      "student_id": "226 -LIMF-02530166",
+      "email": "frencizmaelimon7@gmail.com",
+      "full_name": "LIMON, FRENCIZ MAE BELDIA",
+      "section": "BSBA 1C",
+      "overall_average": 87.45,
+      "point_equivalent": 1.50,
+      "remarks": "PASSED"
+    },
+    {
+      "student_id": "2024-00126",
+      "email": "ana.cruz@school.edu",
+      "full_name": "Ana Cruz",
+      "section": "BSIT-1B",
+      "overall_average": 74,
+      "point_equivalent": 3.00,
+      "remarks": "PASSED"
+    },
+    {
+      "student_id": "2024-00127",
+      "email": "carlo.garcia@school.edu",
+      "full_name": "Carlo Garcia",
+      "section": "BSCS-1A",
+      "overall_average": 68,
+      "point_equivalent": 4.00,
+      "remarks": "FAILED"
+    },
+    {
+      "student_id": "2024-00128",
+      "email": "lisa.ramos@school.edu",
+      "full_name": "Lisa Ramos",
+      "section": "BSCS-1A",
+      "overall_average": 91,
+      "point_equivalent": 1.50,
+      "remarks": "PASSED"
+    }
+  ]
+}
